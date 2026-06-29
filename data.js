@@ -85,13 +85,13 @@ const config = {
     
     letter: {
       title: "A Letter Just For You 💌",
-      content: `My Dearest Love,\n\nI wanted to take a moment to tell you how much you mean to me. Every day with you is a gift, and I'm so grateful for your presence in my life.\n\nYou have this amazing way of making even the simplest moments feel special. The way you look at me, the way you hold my hand, the way you make me laugh – these are the things I treasure most.\n\nThank you for being patient, kind, and incredibly loving. Thank you for standing by my side through everything. You are my greatest adventure, my safest haven, and my forever love.\n\nI can't wait to spend more birthdays with you, creating countless more beautiful memories together.\n\nForever yours,\nYour Love ❤️`
+      content: "My Dearest Love,\n\nI wanted to take a moment to tell you how much you mean to me. Every day with you is a gift, and I'm so grateful for your presence in my life.\n\nYou have this amazing way of making even the simplest moments feel special. The way you look at me, the way you hold my hand, the way you make me laugh – these are the things I treasure most.\n\nThank you for being patient, kind, and incredibly loving. Thank you for standing by my side through everything. You are my greatest adventure, my safest haven, and my forever love.\n\nI can't wait to spend more birthdays with you, creating countless more beautiful memories together.\n\nForever yours,\nYour Love ❤️"
     },
     
     finale: {
       title: "One Last Surprise... 🎁",
       tapText: "Tap the gift",
-      message: `Happy Birthday to the love of my life. ❤️\n\nThank you for being the best part of my life.\n\nI hope this year brings you everything you've wished for, fills your life with happiness, success, peace, and countless beautiful memories.\n\nI can't wait to create many more memories together.\n\nLove you always. 💕`
+      message: "Happy Birthday to the love of my life. ❤️\n\nThank you for being the best part of my life.\n\nI hope this year brings you everything you've wished for, fills your life with happiness, success, peace, and countless beautiful memories.\n\nI can't wait to create many more memories together.\n\nLove you always. 💕"
     }
   },
   
